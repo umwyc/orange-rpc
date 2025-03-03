@@ -1,0 +1,2 @@
+no=com.wyc.orange.rpc.retry.impl.NoRetryStrategy
+fixedInterval=com.wyc.orange.rpc.retry.impl.FixedIntervalRetryStrategy

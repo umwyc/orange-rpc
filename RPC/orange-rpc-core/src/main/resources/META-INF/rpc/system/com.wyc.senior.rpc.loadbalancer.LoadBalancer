@@ -1,0 +1,3 @@
+roundRobin=com.wyc.orange.rpc.loadbalancer.impl.RoundRobinLoadBalancer
+random=com.wyc.orange.rpc.loadbalancer.impl.RandomLoadBalancer
+consistentHash=com.wyc.orange.rpc.loadbalancer.impl.ConsistentHashLoadBalancer

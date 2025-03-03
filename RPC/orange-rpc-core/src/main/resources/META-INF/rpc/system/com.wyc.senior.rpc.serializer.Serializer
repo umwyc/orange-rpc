@@ -1,0 +1,4 @@
+jdk=com.wyc.orange.rpc.serializer.impl.JdkSerializer
+json=com.wyc.orange.rpc.serializer.impl.JsonSerializer
+kryo=com.wyc.orange.rpc.serializer.impl.KryoSerializer
+hessian=com.wyc.orange.rpc.serializer.impl.KryoSerializer
